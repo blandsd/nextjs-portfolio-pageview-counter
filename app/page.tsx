@@ -34,7 +34,7 @@ export default function Home() {
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
-        <h1 className="text-sm text-zinc-500 ">
+        <h1 className="text-sm text-zinc-800 ">
           I'm building{" "}
           <Link
             target="_blank"
@@ -44,7 +44,7 @@ export default function Home() {
             offellnode.top
           </Link> Trustworthy and high performance validator - Stake 'n Chill Out! Cosmos.
         </h1>
-        <h1 className="text-sm text-zinc-500 ">
+        <h1 className="text-sm text-zinc-800 ">
           Mainnet Validator on Stratos{" "}
           <Link
             target="_blank"
@@ -52,7 +52,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             Explorer Stakes
-          </Link> SGE Network{" "}
+          </Link> & SGE Network{" "}
           <Link
             target="_blank"
             href="https://ping.pub/sge/staking/sgevaloper12d2s03lyhu4vunj2vj4ru8wz7gkt0cx4lh359x"
