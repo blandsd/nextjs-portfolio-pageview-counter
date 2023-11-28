@@ -59,6 +59,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             Explorer Stakes
+          </Link>
         </h1>
       </div>
     </div>
