@@ -42,7 +42,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             offellnode.top
-          </Link> Trustworthy and high performance validator - Stake 'n Chill Out! Cosmos.
+          </Link> Trustworthy and high performance validator {TVL $40690} - Stake 'n Chill Out! Cosmos.
         </h1>
         <h1 className="text-sm text-zinc-300 text-2xl">
           Mainnet Validator on Stratos{" "}
