@@ -41,8 +41,8 @@ export default function Home() {
             href="https://unkey.dev"
             className="underline duration-500 hover:text-zinc-300"
           >
-            unkey.dev
-          </Link> to solve API authentication and authorization for developers.
+            offellnode.top
+          </Link> Trustworthy and high performance validator - Stake 'n Chill Out! Cosmos.
         </h2>
       </div>
     </div>
