@@ -6,11 +6,11 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "offellnode.top",
+    template: "%s | offellnode.top",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
-  openGraph: {
+  description: "Validator Provider Staking",
+  /*openGraph: {
     title: "chronark.com",
     description:
       "Co-founder of unkey.dev and founder of planetfall.io",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     ],
     locale: "en-US",
     type: "website",
-  },
+  },*/
   robots: {
     index: true,
     follow: true,
